@@ -1,0 +1,3 @@
+# IddaaMaclar-Php
+Php ile iddaa maclarını ,sonuçları ve gelecek maçları çeken script..
+tutturcom sitesinden verileri çeker , düzenleyip geri verir...ilerde çalışmayabilir...
